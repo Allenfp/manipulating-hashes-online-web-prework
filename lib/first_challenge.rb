@@ -21,6 +21,7 @@ def first_challenge
 
           value_.delete('strawberry')
 
+      end
 
           }
 
